@@ -1,3 +1,3 @@
-# Compares Lexical Entropy across Human and AI generations.
+# Compares Lexical Entropy across Human and Prompt Styles
 
 
