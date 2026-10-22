@@ -19,7 +19,7 @@ _"Depict the following scene []"_
 2) Cousins catching up after a long time apart
 3) A parent reprimanding a young child
 
-### 14 authors * 3 prompting styles * 3 topics per prompting style = **126 TEXTS**
+14 authors * 3 prompting styles * 3 topics per prompting style = **126 TEXTS**
 
 ## Human Texts - 210
 14 authors * 3 novels each * 5 texts per novel = 210 Total Texts
