@@ -1,4 +1,4 @@
-# How Well can Claude Opus 5.5 Imitate a 19th Century Human Author?
+# How Well can Claude Opus 5 Imitate a 19th Century Human Author?
 _Stylometric Analysis of over 580+ human and AI generated texts (~3,000 words per excerpt)_
 By Harshini Sre P and Vrishodharan K. Swami
 ___________________________________________________________________________________________________________________________________________________________________
