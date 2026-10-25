@@ -1,0 +1,7 @@
+"Feature family","Features tested","Significant (p<.05)","% significant","ARI (clustering)","Strongest feature","Used more by"
+"Words (top 300)",300,189,63,1,"it","AI"
+"Character 3-grams (top 500; _ = space)",500,336,67.2,0.829,"._""","AI"
+"Character 4-grams (top 500; _ = space)",500,352,70.4,0.291,"""_he","AI"
+"POS 1-grams (top 300)",17,13,76.5,0.078,"ADJ","HW"
+"POS 2-grams (top 300)",268,117,43.7,0.145,"CCONJ PRON","AI"
+"POS 3-grams (top 300)",300,203,67.7,0.316,"CCONJ DET NOUN","AI"
