@@ -1,0 +1,2 @@
+Dataset,Samples,Accuracy,Macro F1
+Held-out Humans,78,0.8974358974358975,0.9018204018204018
