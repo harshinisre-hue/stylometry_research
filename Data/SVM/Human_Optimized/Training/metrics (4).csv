@@ -1,0 +1,2 @@
+Dataset,Samples,Accuracy,Macro F1
+Human training (in-sample),132,1.0,1.0
