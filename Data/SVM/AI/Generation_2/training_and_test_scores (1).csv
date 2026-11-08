@@ -1,0 +1,3 @@
+Dataset,Split,Samples,Accuracy,Macro F1,CV objective (train only),Selected features,Split method
+Generation_2,Training (in-sample),94,1.0,1.0,0.9735087719298245,1339,stratified text split
+Generation_2,Held-out test,32,0.96875,0.9714285714285714,0.9735087719298245,1339,stratified text split

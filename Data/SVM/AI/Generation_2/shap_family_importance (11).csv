@@ -1,0 +1,13 @@
+,Mean abs SHAP
+Sentence-length deviation,0.0
+Lexical entropy,0.0
+Punctuation,0.2538085846233407
+Character 3-grams,0.33874488647359574
+POS 4-grams,0.449212670419314
+Other features,0.5758357233880887
+Character 2-grams,0.606175161855051
+POS 5-grams,0.6102002696848726
+POS 3-grams,0.6415940203681473
+POS 2-grams,0.6870458250860013
+Character 4-grams,0.8883232222797975
+Character 5-grams,1.0568802058969142
