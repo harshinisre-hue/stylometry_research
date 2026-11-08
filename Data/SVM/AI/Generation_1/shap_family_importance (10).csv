@@ -1,0 +1,12 @@
+,Mean absolute grouped SHAP
+Punctuation,0.0
+Sentence-length deviation,0.0
+POS 4-grams,0.0
+Character 4-grams,0.13510818098717994
+Character 5-grams,0.22268060632891712
+POS 5-grams,0.32763471651628095
+POS 3-grams,0.41719814542841355
+Character 3-grams,0.5935088020813708
+Other features,0.6542602975331628
+POS 2-grams,1.1444576047290056
+Character 2-grams,2.829592743773931

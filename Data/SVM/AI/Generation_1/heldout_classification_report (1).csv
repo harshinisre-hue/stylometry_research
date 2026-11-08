@@ -1,0 +1,18 @@
+,precision,recall,f1-score,support
+Booth Tarkington,0.6666666666666666,1.0,0.8,2.0
+Charles W. Chesnutt,1.0,1.0,1.0,2.0
+Edith Wharton,1.0,1.0,1.0,2.0
+Ernest Hemingway,1.0,1.0,1.0,3.0
+Frank Norris,1.0,1.0,1.0,2.0
+Henry James,1.0,1.0,1.0,2.0
+Jack London,1.0,0.3333333333333333,0.5,3.0
+Mary Austin,0.75,1.0,0.8571428571428571,3.0
+Sherwood Anderson,1.0,1.0,1.0,2.0
+Sinclair Lewis,1.0,0.5,0.6666666666666666,2.0
+Stephen Crane,1.0,1.0,1.0,3.0
+Theodore Dreiser,1.0,1.0,1.0,2.0
+Upton Sinclair,1.0,1.0,1.0,2.0
+Willa Cather,0.6666666666666666,1.0,0.8,2.0
+accuracy,0.90625,0.90625,0.90625,0.90625
+macro avg,0.9345238095238094,0.9166666666666666,0.9017006802721088,32.0
+weighted avg,0.9348958333333333,0.90625,0.8938988095238095,32.0
